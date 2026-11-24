@@ -1,0 +1,17 @@
+# Model dosyalari
+*.h5
+*.keras
+
+# Veri seti
+veriler/
+
+# Kisisel test gorselleri
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistem dosyalari
+.DS_Store
